@@ -16,24 +16,40 @@ The template to follow when adding new writeups:
 
 ### Contributors:
 
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry), [Abartan Dhakal](https://twitter.com/imhaxormad)
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry), [Abartan Dhakal](https://twitter.com/imhaxormad), [Syahri Ramadan](https://twitter.com/LocalHost31337), [Omar Espino](https://twitter.com/omespino), [irsl](https://github.com/irsl), [santuySec](https://twitter.com/santuySec)
 
 Thank you! 🎉
 
 ## Blog posts:
 
+### 2021:
+
+- **[Mar 08 - $0]** [Google VRP N/A: SSRF Bypass with Quadzero in Google Cloud Monitoring](https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/) by [Omar Espino](https://twitter.com/omespino) 
+- **[Feb 16 - $0]** [Dropping a shell in Google’s Cloud SQL (the speckle-umbrella story)](https://irsl.medium.com/dropping-a-shell-in-googles-cloud-sql-the-speckle-umbrella-story-f9375bd4960d) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
+- **[Jan 27 - $???]** [Hijacking Google Drive Files (documents, photo & video) through Google Docs Sharing](https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/) by [santuySec](https://twitter.com/santuySec)
+- **[Jan 18 - $1,337]** [The Embedded YouTube Player Told Me What You Were Watching (and more)](https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/) by [David Schütz](https://twitter.com/xdavidhu)
+- **[Jan 11 - $5,000]** [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/) by [David Schütz](https://twitter.com/xdavidhu)
+- **[Jan 08 - $3,133.7]** [Blind XSS in Google Analytics Admin Panel — $3133.70](https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a) by [Ashish Dhone](https://www.linkedin.com/in/ashish-dhone-640489135/)
+
 ### 2020:
 
+- **[Dec 30 - $???]** [Getting my first Google VRP trophies](https://irsl.medium.com/getting-my-first-google-vrp-trophies-b56d700face) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
+- **[Dec 27 - $???]** [Google VRP Hijacking Google Docs Screenshots](https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/) by [Sreeram KL](https://blog.geekycat.in/author/sreeram/)
+- **[Dec 22 - $0]** [SSTI in Google Maps](https://www.ehpus.com/post/ssti-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
+- **[Dec 19 - $0]** [Google VRP – Sandboxed RCE as root on Apigee API proxies](https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/) by [Omar Espino](https://twitter.com/omespino) 
+- **[Nov 12 - $31,337]** [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html) by [David Nechuta](https://twitter.com/david_nechuta)
 - **[Oct 08 - $30,000]** [The mass CSRFing of \*.google.com/\* products.](http://www.missoumsai.com/google-csrfs.html) by [Missoum Said](https://twitter.com/missoum1307)
 - **[Oct 01 - $5,000]** [Google bug bounty: XSS to Cloud Shell instance takeover (RCE as root) - $5,000 USD](https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/) by [Omar Espino](https://twitter.com/omespino)
 - **[Sept 29 - $???]** [Public Bucket Allowed Access to Images on Upcoming Google Cloud Blog Posts](https://websecblog.com/vulns/public-google-cloud-blog-bucket/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Sept 20 - $500]** [How I earned $500 from Google - Flaw in Authentication](https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616/) by [Hemant Patidar](https://twitter.com/HemantSolo)
 - **[Sept 08 - $10,000]** [XSS->Fix->Bypass: 10000$ bounty in Google Maps](https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
+- **[Sept 07 - $1,337]** [My first bug in google and how i got CSRF token for victim account rather than bypass it](https://medium.com/@odayalhalbe1/my-first-bug-in-google-and-how-i-got-csrf-token-for-victim-account-rather-than-bypass-it-1337-bf01261feb47) by [Oday Alhalbe](https://bughunter.withgoogle.com/profile/91a2e03b-0b0d-422c-9cd6-aa2a2ae24b57)
 - **[Aug 26 - $???]** [Auth bypass: Leaking Google Cloud service accounts and projects](https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[Aug 25 - $1,337]** [How I Tracked Your Mother: Tracking Waze drivers using UI elements](https://www.malgregator.com/post/waze-how-i-tracked-your-mother/) by [Peter Gasper](https://github.com/viralpoetry)
 - **[Aug 22 - $???]** [The Short tale of two bugs on Google Cloud Product— Google VRP [Resolved]](https://medium.com/bugbountywriteup/the-short-tale-of-two-bugs-on-google-cloud-product-google-vrp-resolved-47c913dca8fc) by [Sriram](https://twitter.com/sriramoffcl)
 - **[Aug 19 - $???]** [The Confused Mailman: Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/) by [Allison Husain](https://twitter.com/ezhes_)
 - **[Aug 18 - $???]** [How to contact Google SRE: Dropping a shell in Cloud SQL](https://www.ezequiel.tech/2020/08/dropping-shell-in.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
+- **[Aug 18 - $???]** [Three More Google Cloud Shell Bugs Explained](https://blog.daviddworken.com/posts/cloud-shell-bugs-explained/) by [David Dworken](https://twitter.com/ddworken)
 - **[Aug 15 - $???]** [How I was able to send Authentic Emails as others - Google VRP [Resolved]](https://medium.com/@sriram_offcl/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326) by [Sriram](https://www.twitter.com/sriramoffcl/)
 - **[July 28 - $1,337]** [Authorization bypass in Google’s ticketing system (Google-GUTS)](https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[July 17 - $5,000]** [Idor in google product](https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de) by [baluz](https://twitter.com/critical_b0y)
@@ -70,6 +86,7 @@ Thank you! 🎉
 - **[March 29 - $0]** [Inserting arbitrary files into anyone’s Google Earth Projects Archive](https://websecblog.com/vulns/google-earth-studio-vulnerability/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[March 26 $3,133.7]** [How I could have hijacked a victim’s YouTube notifications!](https://hackademic.co.in/youtube-bug/) by [Yash Sodha](https://twitter.com/y_sodha)
 - **[Feb 12 - $???]** [Hacking YouTube for #fun and #profit](https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/) by [Alexandru Coltuneac](https://twitter.com/dekeeu)
+- **[Jan 31 - $???]** [LFI in Apigee portals](https://offensi.com/2019/01/31/lfi-in-apigee-portals/) by [Wouter ter Maat](https://twitter.com/wtm_offensi)
 - **[Jan 30 - $7,500]** [$7.5k Google Cloud Platform organization issue](https://www.ezequiel.tech/2019/01/75k-google-cloud-platform-organization.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[Jan 18 - $10,000]** [$10k host header](https://www.ezequiel.tech/p/10k-host-header.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 
@@ -127,6 +144,9 @@ Thank you! 🎉
 
 ### Unknown Date:
 
+- **[??? - $???]** [XSS vulnerability in Google Cloud Shell’s code editor through mini-browser endpoint](https://ψ.fun/i/ZK9Kv) by [Psi](https://ψ.fun/)
+- **[??? - $???]** [Information leakage vulnerability in Google Cloud Shell’s proxy service](https://ψ.fun/i/KPMGz) by [Psi](https://ψ.fun/)
+- **[??? - $???]** [XSS vulnerability in Google Cloud Shell’s code editor through SVG files](https://ψ.fun/i/92uQC) by [Psi](https://ψ.fun/)
 - **[??? - $???]** [CSWSH vulnerability in Google Cloud Shell’s code editor](https://ψ.fun/i/yvpMj) by [Psi](https://ψ.fun/)
 - **[??? - $3,133.7]** [Open redirects that matter](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter) by [Tomasz Bojarski](https://bughunter.withgoogle.com/profile/c25fa487-a4df-4e2e-b877-4d31d8964b82)
 - **[???- $???]** [Voice Squatting & Voice Masquerading Attack against Amazon Alexa and Google Home Actions](https://sites.google.com/site/voicevpasec/) by ???
